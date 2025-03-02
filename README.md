@@ -46,7 +46,7 @@ Repository ini berisi kumpulan materi dan proyek saya selama mempelajari bahasa 
 1. Pastikan compiler C++ sudah terinstall (contoh: GCC atau Clang).
 2. Clone repository ini:
    ```sh
-   git clone https://github.com/username/belajar-cpp.git
+   git clone https://github.com/mkeyzxi/belajar-cpp.git
    cd belajar-cpp
    ```
 3. Compile dan jalankan salah satu file:
